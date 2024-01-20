@@ -1,4 +1,4 @@
-ami                    = "ami-03265a0778a880afb"
+ami                    = "ami-010c2d0fd8c55129c"
 instance_type          = "t3.micro"
 zone_id                = "Z07877831F6XHEVGE7HRM"
 env                    = "dev"
